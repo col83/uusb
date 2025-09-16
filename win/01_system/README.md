@@ -5,12 +5,12 @@
 [AIM Toolkit](https://sourceforge.net/projects/aim-toolkit/) - is a program for creating temporary disk images from RAM. <br>
 It can be useful for working with a large number of small files or for specific system tests.
 
+> [!NOTE]
 > It is a stage of the evolution of [ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/) which in turn is a good alternative to [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html). <br>
-This way you can try all the programs and decide which one solves your problem of creating temporary disk space better and faster.
-
-Unfortunately, this is an old branch that only receives critical updates. <br>
-The new version of the program still belongs to the proprietary [Arsenal Recon](https://arsenalrecon.com) and is paid. <br>
-In fact, the current provider of free binaries is - [github.com/ArsenalRecon/Arsenal-Image-Mounter](https://github.com/ArsenalRecon/Arsenal-Image-Mounter).
+> This way you can try all the programs and decide which one solves your problem of creating temporary disk space better and faster. <p>
+> Unfortunately, this is an old branch that only receives critical updates. <br>
+> The new version of the program still belongs to the proprietary [Arsenal Recon](https://arsenalrecon.com) and is paid. <br>
+> In fact, the current provider of free binaries is - [github.com/ArsenalRecon/Arsenal-Image-Mounter](https://github.com/ArsenalRecon/Arsenal-Image-Mounter).
 
 [AutoHotKey](https://github.com/AutoHotkey/AutoHotkey) (AHK) - Positioned as a [programming language](https://en.wikipedia.org/wiki/AutoHotkey) for writing simple scripts to automate various tasks. <br>
 Has a launcher for binding and editing scripts. <br>
